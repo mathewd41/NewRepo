@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace C_hash_Ass1_Dhanya_Mathew
 {
-   internal class Student
+    // Student Declaration
+    internal class Student
     {
         public int id ;
         public StudentType type;

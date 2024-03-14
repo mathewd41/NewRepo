@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace C_hash_Ass1_Dhanya_Mathew
 {
+    // Student Type Declaration
   public enum StudentType
         {
             Unknown,
